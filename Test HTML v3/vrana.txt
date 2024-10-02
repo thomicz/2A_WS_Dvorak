@@ -1,0 +1,20 @@
+Vrána
+
+* Na hlavní stránku
+* Rod Krkavcovité
+
+Vrána je český název některých pěvců z rodu krkavec (Corvus). Ačkoli se v češtině používá jako název rodový, představuje podrod Corone. V Česku se vyskytuje vrána černá (Corvus corone Linnaeus, 1758) a vrána šedá (Corvus cornix Linnaeus, 1758). V oblastech společného výskytu (celé území ČR) je běžné křížení obou druhů. Kříženci vykazují různé barevné přechody (rozsah šedé barvy) mezi oběma druhy.
+
+Inteligence
+Vrána novokaledonská (Corvus moneduloides) umí využívat a upravovat nástroje. Ve volné přírodě se u nich prokázalo využívání klacíků a řapíků listů, z nichž vyrábí háčky. Ty využívají na napichování a vytahování hmyzu z koruny palmy. Při pokusech dokázaly využívat umělé materiály (drátky, staniolové proužky…), které nikdy dříve neviděly. Pomocí těchto háčků dokázaly vyndat ze skleněné trubičky košík s masem. Tato schopnost se prokázala i při pokusech s mláďaty odchovanými v zajetí, která nepřišla do kontaktu s rodiči. Jde tedy buď o dědičné chování pro řešení podobných úloh (podobně, jako si jihoamerický dravec vzpomene na rozbíjení vajec afrického pštrosa kamenem), nebo o důkaz obecnějších logických a plánovacích schopností.
+
+Vědecká klasifikace
+Říše	živočichové (Animalia)
+Kmen	strunatci (Chordata)
+Podkmen	obratlovci (Vertebrata)
+Třída	ptáci (Aves)
+Podtřída	letci (Neognathae)
+Řád	pěvci (Passeriformes)
+Čeleď	krkavcovití (Corvidae)
+Rod	krkavec (Corvus)
+Podrod	vrána (Corone)
