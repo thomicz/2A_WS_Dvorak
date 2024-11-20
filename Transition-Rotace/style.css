@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* Box styles */
+.rotate-box {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  transition: 3s;
+}
+
+.rotate-box:hover{
+  transform: rotate(60deg);
+}

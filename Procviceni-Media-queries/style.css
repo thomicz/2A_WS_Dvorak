@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  color: white;
+  background-color: black; 
+}
+
+@media screen and (min-width: 1200px)
+{
+body{
+  background-color: darkred;
+  font-size: 16pt;
+
+}
+}
+
+@media screen and (max-width: 1200px)
+{
+body{
+  background-color: darkgreen;
+  font-size: 14pt;
+}
+}
+
+@media screen and (max-width: 990px)
+{
+body{
+  background-color: darkblue;
+  font-size: 12pt;
+}
+}
+
+@media print{
+  body{
+    font-family: serif;
+    background-color: white;
+    color: black;
+  }
+}
+
