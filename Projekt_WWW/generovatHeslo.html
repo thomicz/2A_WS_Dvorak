@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+       <a href="index.html"><img src="password_generator.png" alt="logo"></a>
+            <ul>
+                <li id="selected"><a href="generovatHeslo.html">Generovat heslo</a></li>
+                <li><a href="mojeHesla.html">Moje hesla</a></li>
+                <li><a href="ulozitHeslo.html">Uložit heslo</a></li>
+                <li><a href="oAplikaci.html">O aplikaci</a></li>
+            </ul>
+    </nav>
+
+    <body>
+  <div class="generator-container">
+    <h1>Generátor hesla</h1>
+
+    <label for="length">Délka hesla:</label>
+    <input type="range" id="length" min="12" max="32" value="16">
+    <span id="lengthValue">16</span>
+
+    <div class="options">
+      <label><input type="checkbox" id="uppercase" checked> Velká písmena</label>
+      <label><input type="checkbox" id="lowercase" checked> Malá písmena</label>
+      <label><input type="checkbox" id="numbers" checked> Čísla</label>
+      <label><input type="checkbox" id="symbols"> Speciální znaky</label>
+    </div>
+
+    <button id="generate">Generovat heslo</button>
+
+    <div class="output">
+      <input type="text" id="result" readonly>
+      <button id="copy">📋</button>
+    </div>
+  </div>
+
+  <script src="generovatHeslo.js"></script>
+</body>
+
+            
+        
+    
+</body>
+</html>

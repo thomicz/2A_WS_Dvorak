@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'Cascadia Code';
+  src: url('fonts/CascadiaCode.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Cascadia Code', monospace;
+  background-color: black;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  color: white;
+  justify-content:space-between;
+}
+
+nav ul{
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  justify-content:space-evenly;
+}
+
+nav ul li{
+    margin-right: 50px;
+    
+}
+
+a {
+    color: inherit;
+    text-decoration: none; /* Odstraní podtržení */
+  }
+
+  a:visited {
+  color: inherit; /* nebo 'inherit' podle potřeby */
+}
+
+
+
+li:hover {
+  color:rgb(16, 239, 16);
+  transition: color 0.2s;
+}
+
+nav img {
+  height: 200px;
+  margin-right: 50px;
+}
+
+#selected {
+  color: #00ff00;
+  text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+  border-bottom: 2px solid #00ff00;
+  padding-bottom: 2px;
+}
+
+body {
+  background-color: black;
+  color: #00ff00;
+  font-family: monospace;
+  text-align: center;
+}
+
+.generator-container {
+  margin-top: 50px;
+}
+
+input[type=range] {
+  width: 200px;
+}
+
+.options {
+  margin: 20px 0;
+}
+
+label {
+  display: block;
+  margin: 5px;
+}
+
+button {
+  background-color: #00ff00;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 0 10px #00ff00;
+  transition: 0.2s;
+}
+
+button:hover {
+  background-color: black;
+  color: #00ff00;
+  border: 1px solid #00ff00;
+}
+
+.output {
+  margin-top: 20px;
+}
+
+#result {
+  width: 300px;
+  padding: 10px;
+  font-size: 1.1rem;
+  text-align: center;
+  background-color: #111;
+  border: 1px solid #00ff00;
+  color: #00ff00;
+}
+
